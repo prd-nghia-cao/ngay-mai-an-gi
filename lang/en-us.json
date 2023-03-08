@@ -2,9 +2,14 @@
   "welcome": "What will you eat tomorrow?",
   "login-to-order": "Login to place your order.",
   "no-account": "Doesn't have account?",
+  "already-user": "Already a user?",
   "register-now": "Click here to register!",
   "username": "Username",
   "password": "Password",
   "forgot-password": "Forgot Password?",
-  "sign-in": "Sign in"
+  "sign-in": "Sign in",
+  "sign-up": "Sign up",
+  "sign-up-promt-1": "Sign up today",
+  "sign-up-promt-2": "Order tomorrow",
+  "email": "Email"
 }

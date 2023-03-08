@@ -1,0 +1,33 @@
+/* MEDIA QUERIES */
+@import "./variables.scss";
+// MIN-WIDTH
+
+@mixin on_min_sm {
+  @media screen and (min-width: $sm-breakpoint) {
+    @content;
+  }
+}
+
+@mixin on_min_md {
+  @media screen and (min-width: $md-breakpoint) {
+    @content;
+  }
+}
+
+@mixin on_min_lg {
+  @media screen and (min-width: $lg-breakpoint) {
+    @content;
+  }
+}
+
+@mixin on_min_xl {
+  @media screen and (min-width: $xl-breakpoint) {
+    @content;
+  }
+}
+
+@mixin on_min_xxl {
+  @media screen and (min-width: $xxl-breakpoint) {
+    @content;
+  }
+}

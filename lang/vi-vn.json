@@ -3,8 +3,13 @@
   "login-to-order": "Đăng nhập để đặt món.",
   "no-account": "Chưa có tài khoản?",
   "register-now": "Đăng ký ngay!",
+  "already-user": "Đã có tài khoản?",
   "username": "Tên đăng nhập",
   "password": "Mật khẩu",
   "forgot-password": "Quên mật khẩu?",
-  "sign-in": "Đăng nhập"
+  "sign-in": "Đăng nhập",
+  "sign-up": "Đăng ký",
+  "sign-up-promt-1": "Đăng ký hôm nay",
+  "sign-up-promt-2": "Đặt món ngày mai",
+  "email": "Email"
 }
