@@ -1,5 +1,5 @@
 {
-  "welcome": "What will you eat tomorrow?",
+  "signin-welcome": "What will you eat tomorrow?",
   "login-to-order": "Login to place your order.",
   "no-account": "Doesn't have account?",
   "already-user": "Already a user?",
@@ -11,5 +11,8 @@
   "sign-up": "Sign up",
   "sign-up-promt-1": "Sign up today",
   "sign-up-promt-2": "Order tomorrow",
-  "email": "Email"
+  "email": "Email",
+  "welcome": "Hi",
+  "home": "Home",
+  "settings": "Settings"
 }

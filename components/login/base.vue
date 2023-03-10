@@ -4,7 +4,9 @@
   >
     <div class="flex flex-col gap-4">
       <div class="flex flex-col text-black text-2xl gap-1">
-        <span>{{ isSignUp ? $t("sign-up-promt-1") : $t("welcome") }}</span>
+        <span>{{
+          isSignUp ? $t("sign-up-promt-1") : $t("signin-welcome")
+        }}</span>
         <span>{{
           isSignUp ? $t("sign-up-promt-2") : $t("login-to-order")
         }}</span>

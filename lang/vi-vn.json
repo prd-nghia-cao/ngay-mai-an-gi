@@ -1,5 +1,5 @@
 {
-  "welcome": "Ngày mai bạn ăn gì?",
+  "signin-welcome": "Ngày mai bạn ăn gì?",
   "login-to-order": "Đăng nhập để đặt món.",
   "no-account": "Chưa có tài khoản?",
   "register-now": "Đăng ký ngay!",
@@ -11,5 +11,8 @@
   "sign-up": "Đăng ký",
   "sign-up-promt-1": "Đăng ký hôm nay",
   "sign-up-promt-2": "Đặt món ngày mai",
-  "email": "Email"
+  "email": "Email",
+  "welcome": "Xin chào",
+  "home": "Trang chủ",
+  "settings": "Cài đặt"
 }

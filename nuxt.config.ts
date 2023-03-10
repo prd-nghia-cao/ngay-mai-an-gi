@@ -15,6 +15,7 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     "vite-plugin-vue-type-imports/nuxt",
     "@nuxt/image-edge",
+    "unplugin-icons/nuxt",
   ],
   i18n: {
     lazy: true,
